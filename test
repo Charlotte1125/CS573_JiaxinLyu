@@ -74,3 +74,4 @@ d3.csv("cars-sample.csv", function(error, dataset) {
 
 </script>
 </body>
+</html>
